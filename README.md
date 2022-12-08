@@ -1,12 +1,6 @@
 <h1>Hi there 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/joze144" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=joze144" alt="Jozhe's Stats" >
-  </a>
-</p>
-
-<p align="center">
   <a href="https://jozhe.medium.com/">
     <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="26px"/>
   </a>
